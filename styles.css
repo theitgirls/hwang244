@@ -1,8 +1,16 @@
-body{
-    background-color:#BBD8F2;
-    font-family: 'Ibarra Real Nova', serif;
-}
+body{background-color:#BBD8F2;
+    font-family: 'Ibarra Real Nova', serif;}
 h1 {color:#304D6D;
     font-family: 'Ibarra Real Nova', serif;
+    margin: 0 auto;
+    display: block;}
+p  {color: #18293c;}
+nav{padding:10px;
+    margin-bottom:30px;
+    background-color:rgb(159, 187, 212);}
+div{border:1px;
+    margin: 30px;
+    padding: 50px;
+    background-color: aliceblue;
+    border-radius:25px;
 }
-p {color: #18293c;}
